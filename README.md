@@ -1,4 +1,4 @@
-![Tankless Hydrogen Fuel Cell](https://github.com/user-attachments/assets/acaec02e-8f3d-4c73-ace5-7581b19a67db)
+![Tankless Hydrogen Fuel Cell](https://github.com/user-attachments/assets/d080b4e2-9662-4beb-bcb6-5c06e85ef9d2)
 
 A [tankless water electrolysis hydrogen fuel cell](https://chatgpt.com/g/g-685b3527bef8819191c8c6ba766a6b4a-tankless-hydrogen) is a compact energy device that generates hydrogen gas directly from water without storing either the input (water) or the output (hydrogen) in tanks. It achieves this by splitting water molecules using an electric current in an electrolytic cell. At the anode, water is oxidized to release oxygen gas, and at the cathode, hydrogen ions receive electrons to form hydrogen gas. This hydrogen is fed immediately into a Proton Exchange Membrane (PEM) fuel cell stack where it reacts with oxygen from the air to generate electricity and water vapor. The entire process is continuous and self-contained, making it well-suited for scenarios where low flow, on-demand energy is needed, such as portable electronics, off-grid systems, or lightweight vehicles.
 
