@@ -16,6 +16,10 @@ Sourceduty has pioneered an innovative, tankless hydrogen fuel cell system that 
 
 #
 
+A small-scale tankless water electrolysis hydrogen fuel cell system, designed for portable or intermittent-use applications such as backup power or off-grid energy generation, is currently estimated to cost between $500 and $700 USD (approximately $680 to $950 CAD) for a prototype unit. This cost includes essential components such as a high-surface-area electrolytic water-splitting chamber ($50–$100), a proton exchange membrane (PEM) fuel cell stack capable of around 500W output with approximately 60% efficiency ($200–$400), and an integrated control system to manage flow rates, pressures, and temperatures with real-time feedback and adjustment capabilities ($100–$200). Additional expenses for packaging, assembly, and quality testing bring the total within this range. This tankless configuration eliminates the need for separate hydrogen storage tanks and compression systems, enabling a more compact, efficient, and lightweight design particularly suited for decentralized, renewable-powered energy solutions. While upfront costs remain relatively high due to the emerging nature of the technology and specialized materials like platinum catalysts and advanced membranes, future economies of scale through automated manufacturing and improved component efficiency could reduce unit costs to below $100 USD, making this an increasingly viable clean energy option for small-scale applications.
+
+#
+
 [Chemical Computers](https://github.com/sourceduty/Chemical_Computers)
 <br>
 [Chemtronics](https://github.com/sourceduty/Chemtronics)
