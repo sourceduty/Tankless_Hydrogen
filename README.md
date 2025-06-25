@@ -20,6 +20,12 @@ A small-scale tankless water electrolysis hydrogen fuel cell system, designed fo
 
 #
 
+![Tankless](https://github.com/user-attachments/assets/53f286da-84cd-406d-af82-db5edd43586e)
+
+The comparison of tankless and tanked hydrogen fuel cell systems based on efficiency stages reveals notable advantages for the tankless approach. Starting from a baseline of 100% electricity input, both systems assume a similar electrolysis efficiency of around 75%, reflecting typical conversion rates when splitting water into hydrogen and oxygen. However, the key divergence arises during the hydrogen handling phase: tanked systems suffer an additional 15% energy loss due to the compression and storage of hydrogen gas, which is necessary for maintaining high-pressure reserves before fuel cell usage. This step significantly reduces the available energy for subsequent conversion in the fuel cell. Both systems utilize PEM fuel cells with approximately 60% efficiency in converting hydrogen into electricity, but due to the preceding compression losses, the tanked system delivers only about 38.25% net electrical output from the original energy input, whereas the tankless system retains around 45%. This 6.75% advantage underscores the inherent efficiency of on-demand hydrogen generation in tankless designs, which bypasses the need for compression, storage, and associated infrastructure. Consequently, tankless systems are more suitable for applications where compactness, lower operational losses, and integration with renewable sources are critical, such as in portable power units, remote installations, and small electric vehicles.
+
+#
+
 [Chemical Computers](https://github.com/sourceduty/Chemical_Computers)
 <br>
 [Chemtronics](https://github.com/sourceduty/Chemtronics)
