@@ -26,8 +26,9 @@ The comparison of tankless and tanked hydrogen fuel cell systems based on effici
 
 Tankless water electrolysis hydrogen fuel cell systems remain relatively niche due to their higher upfront costs and system complexity, though they offer clear advantages in compactness and efficiency. A prototype unit can cost between $500–$700, driven by the need for high-performance materials like platinum catalysts, advanced membranes, and integrated control systems. Complexity arises from the need to manage water feed, electrolysis, hydrogen purification, and PEM fuel cell integration within a compact footprint, all in real-time. Despite this, their popularity is growing in specialized sectors—such as portable power, research labs, and off-grid renewable energy setups—thanks to the appeal of on-demand hydrogen generation without bulky or hazardous storage tanks. As manufacturing scales and materials improve, costs are expected to decrease, potentially broadening adoption.
 
-Alex: _This might be a backup or emergency alternative to other, more popular, power generation methods._
 
+#
+Alex: _This might be a backup or emergency alternative to other, more popular, power generation methods._
 #
 
 [Chemical Computers](https://github.com/sourceduty/Chemical_Computers)
